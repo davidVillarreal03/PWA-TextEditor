@@ -19,7 +19,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-User must git clone this repo into vs code and open an intergrated terminal followed by entering the command scripts: npm i, npm run dev and npm run build.
+User must git clone this repo into vs code and open an intergrated terminal followed by entering the command scripts: npm i, npm run start
+and open their browser to http://localhost:3000 to view and use the application.
+
+They will also be able to see a link that will install to their interface
 
 ## Usage
 
