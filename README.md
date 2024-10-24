@@ -26,7 +26,8 @@ They will also be able to see a link that will install to their interface
 
 ## Usage
 
-Follow this link to get a better idea on how to use this app.
+Open the application and start typing into the editor. The application will automatically save your work into a indexedDB and it will save whenever 
+you exit the application and open it back up again.
 
 ## Credits
 
@@ -73,7 +74,7 @@ If you would like to contribute please follow the guidelines of git fork.
 
 ## Tests
 
-This video will show you how you can test the app.
+Put whatever text you want into the app. Close it and open it back up to see your work is still there.
 
 ## Questions
 For questions about the project, you can reach me via:
