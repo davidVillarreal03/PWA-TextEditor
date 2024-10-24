@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
-    "start": "",
+    "start:dev": "node server.js",
+    "start": "node ./server/server.js",
     "server": "",
     "build": "",
     "install": "",
@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
